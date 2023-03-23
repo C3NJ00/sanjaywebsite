@@ -1,0 +1,59 @@
+   body {
+      background-color: #6096B4;
+      text-align: center;
+      font-family: 'Ubuntu', sans-serif;
+      color:#BDCDD6;
+    }
+
+    .top-container {
+        margin-top:250px;
+        font-size:30px;
+        color:#93BFCF;
+        margin-left:auto;
+        margin-right:auto;
+
+    }
+
+    .bottom-text {
+        margin-top:20px;
+        font-size:20px;
+        color:#BDCDD6;
+        margin-left:270px;
+        width:600px;
+        text-align: center;
+    }
+
+     .middle-container {
+        margin-top:250px;
+        font-size:20px;
+        color:#BDCDD6;
+        margin-left:270px;
+        width:600px;
+        text-align: center;
+    }
+
+    .bottom {
+        background-color: hsla(158, 23%, 18%, 1);
+        width:300px;
+        left: 200px
+    }
+
+   .top-cloud {
+        position: absolute;
+    }
+
+    .icon-img {
+
+        height:100px;
+        width:100px
+
+    }
+    h3{
+        font-size:20px;
+    }
+  h5 {
+    font-size:15px;
+    color:#3A4F7A
+    font-family: 'Sacramento', cursive;
+
+  }
